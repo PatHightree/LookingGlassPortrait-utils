@@ -1,6 +1,6 @@
-#LookingGlassPortrait-utils
+# LookingGlassPortrait-utils
 
-##Quilt  
+## Quilt  
 The Quilt batch file can create a video quilt from 45 video's
 
 Usage: `Quilt shotname`  
